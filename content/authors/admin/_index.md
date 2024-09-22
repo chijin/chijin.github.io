@@ -20,12 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Professor of Electrical and Computer Engineering
-Associated Faculty Member of Computer Science
+role: Assistant Professor of Electrical and Computer Engineering, Associated Faculty Member of Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OPrinceton University
+  - name: Princeton University
     # url: https://openai.com/
 
 # Social network links
@@ -40,14 +39,14 @@ profiles:
     url: https://www.youtube.com/@chi-jin-princeton
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=GINhGvwAAAAJ
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
-  # - icon: brands/github
-  #   url: https://github.com/gcushen
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
+# - icon: brands/instagram
+#   url: https://www.instagram.com/
+# - icon: brands/github
+#   url: https://github.com/gcushen
+# - icon: brands/linkedin
+#   url: https://www.linkedin.com/
+# - icon: academicons/orcid
+#   url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
