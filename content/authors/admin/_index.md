@@ -20,7 +20,8 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Professor of Electrical and Computer Engineering, Associated Faculty Member of Computer Science
+role: Assistant Professor
+# of Electrical and Computer Engineering, Associated Faculty Member of Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,11 +34,13 @@ profiles:
   - icon: at-symbol
     url: 'mailto:chij@princeton.edu'
     label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=GINhGvwAAAAJ
   - icon: brands/x
     url: https://x.com/chijinml
   - icon: brands/youtube
     url: https://www.youtube.com/@chi-jin-princeton
-  - icon: academicons/google-scholar
+  - icon: academicons/cv
     url: https://scholar.google.com/citations?user=GINhGvwAAAAJ
 # - icon: brands/instagram
 #   url: https://www.instagram.com/
