@@ -36,7 +36,7 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/chijinml
-  - icon: square-youtube-brands-solid
+  - icon: brands/youtube
     url: https://www.youtube.com/@chi-jin-princeton
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=GINhGvwAAAAJ
