@@ -10,8 +10,8 @@ first_name: Chi
 last_name: Jin
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -36,12 +36,16 @@ profiles:
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=GINhGvwAAAAJ
+    label: Google Scholar
   - icon: brands/x
     url: https://x.com/chijinml
+    label: X.com
   - icon: brands/youtube
     url: https://www.youtube.com/@chi-jin-princeton
+    label: Youtube
   - icon: academicons/cv
-    url: https://scholar.google.com/citations?user=GINhGvwAAAAJ
+    url: https://drive.google.com/file/d/1s49ea3SnF42dGY5TfeYaC53EAuQKjPHf/view?usp=sharing
+    label: CV
 # - icon: brands/instagram
 #   url: https://www.instagram.com/
 # - icon: brands/github
@@ -52,15 +56,17 @@ profiles:
 #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Intelligence / Machine Learning
+  - Reinforcement Learning
+  - Game Theory / Multiagent Systems
+  - Statistical Learning Theory
+  - Optimization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Computer Science
+    institution: University of California, Berkeley
+    date_start: 2013-09-01
+    date_end: 2019-05-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
